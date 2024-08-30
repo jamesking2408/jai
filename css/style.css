@@ -1565,6 +1565,12 @@ label {
     display: block;
     margin: 20px 0;
   }
+  .pt-table.desktop-768 .pt-tablecell .page-nav {
+    bottom: 0px;
+  }
+  .pt-tablecell.page-services .container:not(.page-nav.clear .container) {
+    margin-bottom: 4rem;
+  }
 }
 
 .dark {
