@@ -1,16 +1,3 @@
-/*
-THEME: Phantom - Bootstrap Portfolio Template
-VERSION: 1.0.0
-AUTHOR: Themefisher
-
-HOMEPAGE: https://themefisher.com/products/phantom-best-bootstrap-portfolio-template/
-DEMO: https://demo.themefisher.com/phantom/
-GITHUB: https://github.com/themefisher/Phantom-Bootstrap-Portfolio-Template
-
-WEBSITE: https://themefisher.com
-TWITTER: https://twitter.com/themefisher
-FACEBOOK: https://www.facebook.com/themefisher
-*/
 /*------------------------------------------------
 	Base Styles
 -------------------------------------------------*/
@@ -57,12 +44,12 @@ p:last-child {
  * Selection color
  */
 ::-moz-selection {
-  background-color: #FA6862;
+  background-color: #fad162;
   color: #fff;
 }
 
 ::selection {
-  background-color: #FA6862;
+  background-color: #fad162;
   color: #fff;
 }
 
@@ -112,7 +99,7 @@ label {
 }
 
 .btn-primary {
-  background-color: #FA6862;
+  background-color: #fad162;
   border: 0;
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
@@ -169,7 +156,7 @@ label {
 
 .primary,
 .link:hover {
-  color: #FA6862;
+  color: #fad162;
 }
 
 .no-gutter {
@@ -198,7 +185,7 @@ label {
 }
 
 .nicescroll-cursors {
-  background: #FA6862 !important;
+  background: #fad162 !important;
 }
 
 .preloader {
@@ -217,7 +204,7 @@ label {
 }
 
 .loading-mask {
-  background-color: #FA6862;
+  background-color: #fad162;
   height: 100%;
   left: 0;
   position: absolute;
@@ -258,7 +245,7 @@ label {
 	Start Styling
 -------------------------------------------------*/
 .site-wrapper {
-  border-top: 4px solid #FA6862;
+  border-top: 4px solid #fad162;
 }
 
 .page-close {
@@ -330,7 +317,7 @@ label {
 }
 
 .section-title h3::after {
-  background-color: #FA6862;
+  background-color: #fad162;
   width: 73px;
 }
 
@@ -411,7 +398,7 @@ label {
 
 .hexagon-item:hover .hex-item div::before,
 .hexagon-item:hover .hex-item div::after {
-  background-color: #FA6862;
+  background-color: #fad162;
 }
 
 .hexagon-item:hover .hex-content svg {
@@ -621,7 +608,7 @@ label {
 }
 
 .progress .bar {
-  background-color: #FA6862;
+  background-color: #fad162;
   border-radius: 10px;
   height: 8px;
   width: 0;
@@ -645,8 +632,8 @@ label {
 }
 
 .filter .active {
-  color: #FA6862;
-  border-bottom-color: #FA6862;
+  color: #fad162;
+  border-bottom-color: #fad162;
 }
 
 .works-item {
@@ -693,7 +680,7 @@ label {
 }
 
 .works-item h4 {
-  color: #FA6862;
+  color: #fad162;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -871,7 +858,7 @@ label {
 }
 
 .service-hex:hover .st1 {
-  fill: #FA6862;
+  fill: #fad162;
 }
 
 .service-hex:hover .content {
@@ -989,7 +976,7 @@ label {
 }
 
 .testimonials .slick-dots .slick-active button {
-  border-color: #FA6862;
+  border-color: #fad162;
 }
 
 .tm-hex {
@@ -1126,15 +1113,15 @@ label {
 }
 
 .contact-social li:hover span {
-  background-color: #FA6862;
+  background-color: #fad162;
 }
 
 .contact-social li:hover span::before {
-  border-bottom-color: #FA6862;
+  border-bottom-color: #fad162;
 }
 
 .contact-social li:hover span::after {
-  border-top-color: #FA6862;
+  border-top-color: #fad162;
 }
 
 .contact-social-hex {
@@ -1168,11 +1155,11 @@ label {
 }
 
 .contact-social-hex:hover::after {
-  border-bottom-color: #FA6862;
+  border-bottom-color: #fad162;
 }
 
 .contact-social-hex:hover::before {
-  border-top-color: #FA6862;
+  border-top-color: #fad162;
 }
 
 .contact-form .input-field {
@@ -1242,7 +1229,7 @@ label {
 }
 
 .msg-success {
-  color: #FA6862;
+  color: #fad162;
 }
 
 .pt-table.desktop-768 .pt-tablecell {
@@ -1352,7 +1339,7 @@ label {
 }
 
 .color-options li.c0 {
-  background-color: #FA6862;
+  background-color: #fad162;
 }
 
 .color-options li.c1 {
